@@ -1,0 +1,16 @@
+[
+{
+  "modid": "offhandtweaks",
+  "name": "Offhand Tweaks",
+  "description": "More functionality to the offhand!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://minecraft.curseforge.com/projects/offhand-tweaks",
+  "updateUrl": "",
+  "authorList": ["UpcraftLP"],
+  "credits": "(C)2018 UpcraftLP",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
